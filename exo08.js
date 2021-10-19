@@ -10,7 +10,6 @@ function Triangle(nbLignes) {
     }
 }
 
-
 let n = read.questionInt("Entrez un nombre Entier :");
 n = parseInt(n);
 Triangle(n);

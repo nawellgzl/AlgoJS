@@ -8,12 +8,11 @@ function Triangle(nbLignes) {
         strTriangle = SYMBOLE.repeat(i);
         console.log(strTriangle);
     }
-    for (let i = nbLignes; i > 0; i--) {
-        strTriangle = SYMBOLE.repeat(i);
+    for (let j = nbLignes; j > 0; j--) {
+        strTriangle = SYMBOLE.repeat(j);
         console.log(strTriangle);
     }
 }
-
 
 let n = read.questionInt("Entrez un nombre Entier :");
 n = parseInt(n);
