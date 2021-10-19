@@ -13,10 +13,6 @@ function Input() {
     }
 }
 
-for (var i = 0; i <= temperatures.length; i++) {
-    console.log(temperatures[i]);
-}
-
 function closestToZero(numbers) {
     if (!numbers.length) {
         return 0;

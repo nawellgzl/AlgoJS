@@ -17,6 +17,11 @@ function compare(x, y) {
     return x - y;
 }
 
+//ordre décroissant:
+//function compare(x, y) {
+//    return y - x;
+//}
+
 Input();
 nombres.sort(compare);
 console.log("Tableau trié par ordre croissant :" + nombres);
