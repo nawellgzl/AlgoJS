@@ -13,7 +13,7 @@ function Input() {
     }
 }
 
-for (var i = 0; i <= temperatures.Length; i++) {
+for (var i = 0; i <= temperatures.length; i++) {
     console.log(temperatures[i]);
 }
 
