@@ -10,5 +10,7 @@ function Triangle(nbLignes) {
     }
 }
 
-let n = read.questionFloat("Entrez un nombre :");
+
+let n = read.questionInt("Entrez un nombre Entier :");
+n = parseInt(n);
 Triangle(n);
