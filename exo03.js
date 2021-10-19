@@ -6,7 +6,7 @@ function CA(fabr, vente) {
     } else if (fabr === vente) {
         return `Profit nul`;
     }
-    return `Perte de ${fabr-vente} €`;
+    return `Perte de ${Math.abs(fabr-vente)} €`;
 }
 
 
