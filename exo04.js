@@ -1,3 +1,7 @@
+// Consigne : 
+// Écrivez un programme qui demande à l'utilisateur de saisir 3 nombres puis trouver le plus grand.
+
+
 let read = require("readline-sync");
 
 function bigger(nbr1, nbr2, nbr3) {
