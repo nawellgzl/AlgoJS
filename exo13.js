@@ -1,3 +1,10 @@
+// CENTRALE DE TRI
+
+// Consigne : 
+// Vous disposez d'une liste de nombre.
+// Triez la liste du plus petit au plus grand
+
+
 let read = require("readline-sync");
 
 var nbr;
