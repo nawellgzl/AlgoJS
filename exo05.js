@@ -1,3 +1,5 @@
+// LE PROF
+
 // Consigne : 
 // Écrivez un programme pour un professeur flemmard.
 // Vous disposez d'une liste de notes comprises entre 0 et 20
