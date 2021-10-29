@@ -1,3 +1,9 @@
+// ESCALIER
+
+// Consigne : 
+// Écrivez un programme qui demande à un utilisateur un nombre puis qui génère un escalier d'étoiles.
+
+
 let read = require("readline-sync");
 
 const SYMBOLE = "*";
