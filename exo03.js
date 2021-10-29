@@ -1,3 +1,8 @@
+// Consigne : 
+// Écrivez un programme qui demande à l'utilisateur de saisir le prix de fabrication et le prix de vente d'un produit et vérifiez le profit ou la perte.
+// Si le prix de fabrication est supérieur au prix de vente, il y a perte sinon profit.
+
+
 let read = require("readline-sync");
 
 function CA(fabr, vente) {
