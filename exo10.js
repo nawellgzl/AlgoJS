@@ -1,3 +1,9 @@
+// UNE VRAIE PYRAMIDE
+
+// Consigne : 
+// Adaptez l'exercice 9 pour que la pyramide soit dans le bon sens (^)
+
+
 let read = require("readline-sync");
 
 function pyramid(n) {
