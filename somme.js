@@ -1,6 +1,5 @@
 // SOMME
 
-// Consigne : 
 // Écrivez un programme qui demande à l'utilisateur de saisir un nombre "N".
 // Calculer la somme de tous les nombres entre 1 et N
 
