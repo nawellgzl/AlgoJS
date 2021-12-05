@@ -15,3 +15,4 @@ function numSum(n) {
 
 let n = read.questionFloat("Entrez un nombre :");
 numSum(n);
+
