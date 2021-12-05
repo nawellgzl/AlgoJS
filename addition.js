@@ -1,6 +1,5 @@
 // ADDITION
 
-// Consigne : 
 // Écrivez un programme pour saisir deux nombres de l'utilisateur et calculer leur somme. 
 // L'utilisateur doit donc entrer deux valeurs, puis le programme calcule leur somme.
 
