@@ -1,6 +1,3 @@
-// BIENVENUE
-
-// Consigne : 
 // Ecrire un programme qui demande à l'utilisateur de saisir son nom et de lui afficher son nom avec le message de bienvenu.
 
 
