@@ -8,7 +8,6 @@
 // C'est plus
 // C'est moins
 
-// Consigne : 
 // Demandez à l'utilisateur de saisir un nombre de tentative pour simuler les "30 secondes".
 // (Ce nombre de tentatives représentera le nombre d'échec possible)
 // Générez un nombre aléatoire entre 0 et "N" saisie par l'utilisateur.
@@ -17,7 +16,6 @@
 // Comparer le nombre avec le résultat attendu "N"
 // Afficher "Plus" ou "Moins"
 // Retirer une vie
-
 
 
 let read = require("readline-sync");
