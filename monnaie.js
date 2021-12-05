@@ -13,10 +13,8 @@ var X = read.questionFloat("Somme à rendre : ");
 var ndx = coins.length,
     change = [];
 while (ndx) change[--ndx] = 0; // Un tableau de zéro pour les pièces à rendre
-// console.log(ndx + ' ' + change)
 
 while (X) {
-    // console.log(X + ' ' + ndx);
     while (coins[ndx] <= X) {
         X -= coins[ndx];
         X = parseFloat(X.toFixed(2)); // Suppression des reliquats sinon => boucle infini
