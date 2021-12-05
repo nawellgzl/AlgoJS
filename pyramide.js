@@ -1,7 +1,7 @@
 // DRÔLE DE PYRAMIDE
 
 // Consigne : 
-// Adaptez l'exercice 8 pour faire descendre l'escalier dans l'autre sens afin de former une pyramide
+// Adaptez l'exercice "escalier" pour faire descendre l'escalier dans l'autre sens afin de former une pyramide
 
 
 let read = require("readline-sync");
