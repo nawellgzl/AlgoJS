@@ -1,3 +1,3 @@
 ��# DemoJs
 
-Série d'exercices en Js
+Série de petits exercices d'algorithmie en JAVASCRIPT
