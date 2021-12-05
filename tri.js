@@ -1,6 +1,5 @@
 // CENTRALE DE TRI
 
-// Consigne : 
 // Vous disposez d'une liste de nombre.
 // Triez la liste du plus petit au plus grand
 
@@ -20,6 +19,7 @@ function Input() {
     console.log("Tableau initial non trié : " + nombres)
 }
 
+//ordre croissant
 function compare(x, y) {
     return x - y;
 }
